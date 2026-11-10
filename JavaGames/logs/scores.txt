@@ -1,0 +1,2 @@
+2025-10-04T15:57:46.557185520 | [TTT] Final Score: | jan: 1 | ish: 0 |  | jan wins the match!
+2025-10-04T15:58:03.133167092 | [RPS] Final Scores: isha: 1 | kir: 0 | isha wins the match!

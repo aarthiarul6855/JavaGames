@@ -1,0 +1,5 @@
+SnakesLadders-Player:1
+isha:2
+jan:1
+RPS-Computer:2
+TicTacToe-X:1
